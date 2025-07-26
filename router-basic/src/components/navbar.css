@@ -1,0 +1,10 @@
+ul{
+  list-style-type: style none;;
+  display: flex;
+  padding-right: 10px;
+  justify-content: space-between;
+}
+
+.active-link{
+  border: 2px solid black;
+}
